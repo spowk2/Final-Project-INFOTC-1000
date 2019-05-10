@@ -37,18 +37,21 @@ Or the top left corner if you're using Safari:
 <img width="803" alt="Screen Shot 2019-05-10 at 2 09 16 PM" src="https://user-images.githubusercontent.com/46941500/57552776-8a751a00-7332-11e9-8ff1-b99967ad1368.png">
 
 8. Inside of the folder click on "IDLE":
+<img width="805" alt="Screen Shot 2019-05-10 at 2 10 49 PM" src="https://user-images.githubusercontent.com/46941500/57552874-e0e25880-7332-11e9-80d3-b17013908efb.png">
 
 9. Great! A window that looks like this should pop up and now you can start writing code!:
+<img width="893" alt="Screen Shot 2019-05-10 at 2 11 10 PM" src="https://user-images.githubusercontent.com/46941500/57552907-f8b9dc80-7332-11e9-8d90-3f4ecea0aa4a.png">
 
 
 ## IDLE 
 Before we can start writing code it's important to know that the Python shell (image from step 9)
 is simply a practice window. You can write lines of code to see how they execute, however they will not be saved. In order to save the code that we write you're going to click at the top left of your screen on "File" then "New File":
+<img width="900" alt="Screen Shot 2019-05-10 at 2 24 06 PM" src="https://user-images.githubusercontent.com/46941500/57552923-07a08f00-7333-11e9-8d9b-209faa52aef3.png">
 
 A blank window will pop up in which we can begin writing code in:
 
 Since we want to save this code let's go ahead and save this program:
-
+<img width="902" alt="Screen Shot 2019-05-10 at 2 25 44 PM" src="https://user-images.githubusercontent.com/46941500/57552953-19823200-7333-11e9-9ede-766b92bfa684.png">
 
 ## First Program
 
