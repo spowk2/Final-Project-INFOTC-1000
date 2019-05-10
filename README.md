@@ -60,14 +60,15 @@ Since we want to save this code let's go ahead and save this program:
 Now that we can start coding we're going to make a program. Don't worry, we won't be making a game or a website. We are doing the "Hello World!" program. This program is very interesting and here's why: it's usually the first program people learn to write and it is also used by programmers to get an overall understanding of the syntax of the language in which they're writing in. Syntax is essentailly the structure or rules that a language has for how it should be written. Some languages are similar or different in syntax. For now, we are only worry about Python.
 
 The Hello World Program goes as follows "print('Hello World'):
-
+<img width="895" alt="Screen Shot 2019-05-10 at 2 29 24 PM" src="https://user-images.githubusercontent.com/46941500/57553282-c361be80-7333-11e9-8c3f-197d6514d942.png">
 
 Once you have finsihed typing that out save the file. 
 
 Now, at the top left hand corner of your screen click "Run" and then "Run Module":
+<img width="898" alt="Screen Shot 2019-05-10 at 2 29 51 PM" src="https://user-images.githubusercontent.com/46941500/57553317-ceb4ea00-7333-11e9-816f-3af19cfbd78c.png">
 
 Assuming you typed it corrrectly, a window should pop up showing your program executed!:
-
+<img width="1806" alt="Screen Shot 2019-05-10 at 2 30 16 PM" src="https://user-images.githubusercontent.com/46941500/57553339-daa0ac00-7333-11e9-8ebe-438d8fd12b9e.png">
 
 You're a programmer now!
 
