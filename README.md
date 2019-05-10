@@ -20,8 +20,10 @@ Now, we are going to begin the downloading process for MacOS. Start by clicking 
 <img width="190" alt="Screen Shot 2019-05-10 at 1 53 10 PM" src="https://user-images.githubusercontent.com/46941500/57550113-01a6b000-732b-11e9-8642-5c44ea6454bd.png">
 
 3. Now the download will start. Depending on your internet speed, the process shouldn't take too long. To check it's progress you can check the bottom left corner if you're using Google Chrome:
+<img width="323" alt="Screen Shot 2019-05-10 at 1 57 17 PM" src="https://user-images.githubusercontent.com/46941500/57552541-db384300-7331-11e9-9884-0162fef6565d.png">
+Or the top left corner if you're using Safari: 
+<img width="281" alt="Screen Shot 2019-05-10 at 1 57 53 PM" src="https://user-images.githubusercontent.com/46941500/57552553-e7240500-7331-11e9-9984-be8a368bdb16.png">
 
-Or the top left corner if you're using Safari:
 
 4. Once it has finished downloading, click on "python-3.7.3-macosx10.9.pkg". A pop-up will appear that will look like this:
 
