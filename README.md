@@ -17,3 +17,4 @@ Now, we are going to begin the downloading process for MacOS. Start by clicking 
 <img width="1579" alt="Screen Shot 2019-05-10 at 1 50 07 PM" src="https://user-images.githubusercontent.com/46941500/57550023-b7bdca00-732a-11e9-9422-a5368a9fc7bf.png">
 
 2. Go ahead and click on the download button at the top: 
+<img width="190" alt="Screen Shot 2019-05-10 at 1 53 10 PM" src="https://user-images.githubusercontent.com/46941500/57550113-01a6b000-732b-11e9-8642-5c44ea6454bd.png">
