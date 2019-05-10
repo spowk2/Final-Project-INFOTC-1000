@@ -78,16 +78,19 @@ Now, of course this is a simple program that isn't useful for much, but now that
 ## Here are some other resources...
 
 ##### About Python
-  *<https://en.wikipedia.org/wiki/Python_(programming_language)>
-  *<https://www.w3schools.com/python/python_intro.asp>
-  *<https://www.tutorialspoint.com/python/>
+<https://en.wikipedia.org/wiki/Python_(programming_language)>
+
+<https://www.w3schools.com/python/python_intro.asp>
+
+<https://www.tutorialspoint.com/python/>
 
 ##### Youtube tutorials for Python
-  *<https://www.youtube.com/watch?v=rfscVS0vtbw>
-  *<https://www.youtube.com/watch?v=f79MRyMsjrQ>
+<https://www.youtube.com/watch?v=rfscVS0vtbw>
+
+<https://www.youtube.com/watch?v=f79MRyMsjrQ>
 
 ##### Books for Python
-  *<https://realpython.com/best-python-books/#python-crash-course>
+<https://realpython.com/best-python-books/#python-crash-course>
 
 
 
