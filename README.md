@@ -49,6 +49,8 @@ is simply a practice window. You can write lines of code to see how they execute
 <img width="900" alt="Screen Shot 2019-05-10 at 2 24 06 PM" src="https://user-images.githubusercontent.com/46941500/57552923-07a08f00-7333-11e9-8d9b-209faa52aef3.png">
 
 A blank window will pop up in which we can begin writing code in:
+<img width="901" alt="Screen Shot 2019-05-10 at 2 24 38 PM" src="https://user-images.githubusercontent.com/46941500/57553194-9ca38800-7333-11e9-8eca-9ac900a310d2.png">
+
 
 Since we want to save this code let's go ahead and save this program:
 <img width="902" alt="Screen Shot 2019-05-10 at 2 25 44 PM" src="https://user-images.githubusercontent.com/46941500/57552953-19823200-7333-11e9-9ede-766b92bfa684.png">
