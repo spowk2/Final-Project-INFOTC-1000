@@ -14,3 +14,6 @@ To start programming we're going to use the language, Python. Why? Python is one
 
 Now, we are going to begin the downloading process for MacOS. Start by clicking this link: <https://www.python.org/downloads/>
 1. You're going to be taken to website that will look like this:
+<img width="1579" alt="Screen Shot 2019-05-10 at 1 50 07 PM" src="https://user-images.githubusercontent.com/46941500/57550023-b7bdca00-732a-11e9-9422-a5368a9fc7bf.png">
+
+2. Go ahead and click on the download button at the top: 
