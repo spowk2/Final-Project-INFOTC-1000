@@ -24,14 +24,17 @@ Now, we are going to begin the downloading process for MacOS. Start by clicking 
 Or the top left corner if you're using Safari: 
 <img width="281" alt="Screen Shot 2019-05-10 at 1 57 53 PM" src="https://user-images.githubusercontent.com/46941500/57552553-e7240500-7331-11e9-9984-be8a368bdb16.png">
 
-
 4. Once it has finished downloading, click on "python-3.7.3-macosx10.9.pkg". A pop-up will appear that will look like this:
+<img width="615" alt="Screen Shot 2019-05-10 at 2 01 10 PM" src="https://user-images.githubusercontent.com/46941500/57552713-5bf73f00-7332-11e9-8e5c-01531125399a.png">
 
 5. Click continue and navigate through the rest of the steps in the window. At the end it should look like this:
+<img width="871" alt="Screen Shot 2019-05-10 at 2 07 04 PM" src="https://user-images.githubusercontent.com/46941500/57552739-6addf180-7332-11e9-8aa5-a8c752209515.png">
 
-6. Go ahead and click "close" and select "Move to Trast" since we won't be needing the installer anymore:
+6. Go ahead and click "close" and select "Move to Trash" since we won't be needing the installer anymore:
+<img width="611" alt="Screen Shot 2019-05-10 at 2 06 49 PM" src="https://user-images.githubusercontent.com/46941500/57552754-77624a00-7332-11e9-9f02-74777ac8f11f.png">
 
 7. The installer created a "Python 3.7" folder which should be located in your Applications folder:
+<img width="803" alt="Screen Shot 2019-05-10 at 2 09 16 PM" src="https://user-images.githubusercontent.com/46941500/57552776-8a751a00-7332-11e9-8ff1-b99967ad1368.png">
 
 8. Inside of the folder click on "IDLE":
 
