@@ -57,7 +57,7 @@ Since we want to save this code let's go ahead and save this program:
 
 ## First Program
 
-Now that we can start coding we're going to make a program. Don't worry, we won't be making a game or a website. We are doing the "Hello World!" program. This program is very interesting and here's why: it's usually the first program people learn to write and it is also used by programmers to get an overall understanding of the syntax of the language in which they're writing in. Syntax is essentailly the structure or rules that a language has for how it should be written. Some languages are similar or different in syntax. For now, we are only worry about Python.
+Now that we can start coding we're going to make a program. Don't worry, we won't be making a game or a website. We are doing the "Hello World!" program. This program is very interesting and here's why: it's usually the first program people learn to write and it is also used by programmers to get an overall understanding of the syntax of the language in which they're writing in. Syntax is essentailly the structure or rules that a language has for how it should be written. Some languages are similar or different in syntax. For now, we are only worrying about Python.
 
 The Hello World Program goes as follows "print('Hello World'):
 <img width="895" alt="Screen Shot 2019-05-10 at 2 29 24 PM" src="https://user-images.githubusercontent.com/46941500/57553282-c361be80-7333-11e9-8c3f-197d6514d942.png">
@@ -78,11 +78,16 @@ Now, of course this is a simple program that isn't useful for much, but now that
 ## Here are some other resources...
 
 ##### About Python
+<https://en.wikipedia.org/wiki/Python_(programming_language)>
+<https://www.w3schools.com/python/python_intro.asp>
+>https://www.tutorialspoint.com/python/>
 
 ##### Youtube tutorials for Python
+<https://www.youtube.com/watch?v=rfscVS0vtbw>
+<https://www.youtube.com/watch?v=f79MRyMsjrQ>
 
 ##### Books for Python
-
+<https://realpython.com/best-python-books/#python-crash-course>
 
 
 
